@@ -1,0 +1,75 @@
+#flex_header {
+    display:inline-flex;
+}
+
+.nav_list ul {
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.items {
+    padding: 0.2rem;
+    margin-bottom: 1rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.social_media ul {
+    margin: 1rem 35% 1rem 35%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-around;
+    flex-wrap: wrap;
+}
+
+.index_content {
+    display: flex;
+    width: 85%;
+    flex-wrap: wrap;
+    align-items:center;
+    margin-bottom: 50px;
+}
+
+.footer_items {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nosotros_content {
+    display: flex;
+    width: 85%;
+    flex-wrap: wrap;
+    align-items:center;
+    margin-bottom: 50px;
+}
+
+.productos_content {
+    width: 90%;
+    margin-bottom: 50px;
+    display: flex;
+    align-items:stretch;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    width: 30%;
+    height: 500px;
+    justify-content: space-between;
+    margin: 1.5%;
+}
+
+.card_content {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}

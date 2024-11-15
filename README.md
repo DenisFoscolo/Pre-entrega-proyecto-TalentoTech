@@ -1,0 +1,1 @@
+Este proyecto está hecho con la temática de una empresa dedicada a vender cursos,las imágenes son generadas por IA, por ende se me dificultó el conseguir la cantidad necesaria de ellas (Ya que las fui cambiando en los ultimos días).

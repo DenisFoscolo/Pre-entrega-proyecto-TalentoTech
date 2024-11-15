@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "spacial";
+    src: url(../Fonts/VeniteAdoremus-rgRBA.ttf);
+}
+
+@font-face {
+    font-family: "spacial_2";
+    src: url(../Fonts/VeniteAdoremusStraight-Yzo6v.ttf);
+}
+
+.informacion_grid {
+    width: 100vw;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 1fr;
+}
+
+.footer_items {
+    font-size: 1rem;
+    text-align:center;
+    padding: 20px;
+}
+
+
+
+.footer_ul {
+    text-align: justify;
+    margin-top: 2rem;
+}
+
+.footer_li {
+    margin-top: 0.7rem;
+}
+
+
